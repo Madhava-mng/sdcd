@@ -2,7 +2,7 @@
 
 sdcd is the subdomain compresser.
 like database only for subdomain storage.
-like,
+It rerurn data like,
 
 ```json
 {
@@ -46,7 +46,7 @@ puts sdcd.decompress(data)
 }
 ```
 
-you can also add full sub domain "api.test.com" inted of "api" 
+you can also add full sub domain "api.test.com" insted of "api" 
 
 **With files:**
 
